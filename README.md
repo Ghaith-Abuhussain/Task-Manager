@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# task_managing
+# Task Manager
 
 Task Manager Application (Demo App)
 This application is built using Flutter 3.19.0. The main purpose is to achieve many Key Features like:
