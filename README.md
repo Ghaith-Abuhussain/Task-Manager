@@ -32,7 +32,7 @@ You can watch a demo video of the application in the following Google Drive link
 https://drive.google.com/file/d/1ypymFKdwdJX0YNFR41kkhtUEMvT0BaPh/view?usp=sharing
 
 To run the app just download the project from the GitHub repository:
-https://github.com/Ghaith-Abuhussain/task_manager.git
+https://github.com/Ghaith-Abuhussain/Task-Manager.git
 
 and run the command:
 flutter run -d [Targat Name]
