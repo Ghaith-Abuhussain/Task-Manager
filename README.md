@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # task_managing
 
 Task Manager Application (Demo App)
@@ -39,3 +40,6 @@ flutter run -d [Targat Name]
  
 
 samples, guidance on mobile development, and a full API reference.
+=======
+# Task-Manager
+>>>>>>> e7295e5cef61d2dbeaddc17a891f2742432b513a
